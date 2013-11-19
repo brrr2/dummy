@@ -21,7 +21,8 @@ irccasino is a Java package that implements casino games for IRC using the [Pirc
 
 ### Configuration ###
 1.  Copy the .help files to the project run directory.
-2.  Create irccasino.conf in the project run directory with the following contents:  
+2.  Create irccasino.conf in the project run directory with the following contents:
+
         nick=bot nick
         password=bot password
         network=IRC network
