@@ -24,9 +24,7 @@ Setup
 #### Configuration ####
 1.  Copy the .help files to the project run directory.
 2.  Create irccasino.conf in the project run directory with the following contents:  
-
 asdf;klasdf
-
 
 		nick=bot nick
 		password=bot password
