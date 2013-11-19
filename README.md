@@ -23,12 +23,15 @@ Setup
 
 #### Configuration ####
 1.  Copy the .help files to the project run directory.
-2.  Create irccasino.conf in the project run directory with the following contents:
+2.  Create irccasino.conf in the project run directory with the following contents:  
 
-			nick=bot nick
-			password=bot password
-			network=IRC network
-			channel=IRC channels (comma delimited)
+
+
+
+		nick=bot nick
+		password=bot password
+		network=IRC network
+		channel=IRC channels (comma delimited)
 
 #### Run standalone bot ####
 1. Run the project.
