@@ -1,5 +1,5 @@
 irccasino
----------
+=========
 ### What is irccasino? ###
 irccasino is a Java package that implements casino games for IRC using the [PircBotX][1] library. A standalone bot is included, but the package can also be added to any existing PircBotX-based project with some minor tweaks.
 
@@ -12,7 +12,7 @@ irccasino is a Java package that implements casino games for IRC using the [Pirc
 2. [PircBotX 1.9][3]
 
 Setup
------
+=====
 ### Create project ###
 1. Download the [PircBotX][3] library (the JAR package). 
 2. Download irccasino and create a new project for it.
