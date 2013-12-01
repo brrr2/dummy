@@ -33,7 +33,7 @@ Setup
 2. Give the bot Op status in the channels that will run the games.
 3. While as channel Op, type ".texaspoker" or ".blackjack" to start the desired game in the channel.
 
-For more information, visit the [project wiki][4] on GitHub or join us on Freenode in **##casino**. HELLO WORLD!
+For more information, visit the [project wiki][4] on GitHub or join us on Freenode in **##casino**. HELLO WORLD! More!
 
 [1]: http://code.google.com/p/pircbotx/ "PircBotX"
 [2]: http://www.oracle.com/technetwork/java/javase/downloads/index.html "Java SE"
